@@ -53,3 +53,7 @@ fi
 unzip Adafruit_Python_MPR121-master.zip
 cd Adafruit_Python_MPR121-master
 python setup.py install
+ 
+# move the code and wav files 
+mv *.wav /var/www
+mv bananadrum.py /var/www
