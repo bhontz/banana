@@ -6,7 +6,9 @@ Configure the "Banana Drum Kit" Raspberry pi project
 Instructions:
 cd /usr/local/bin
 
-https://github.com/bhontz/banana.git
+sudo git clone https://github.com/bhontz/banana.git
+
+cd banana
 
 sudo sh setup_banana.sh
 
