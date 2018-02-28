@@ -11,7 +11,7 @@ git clone https://github.com/bhontz/banana.git
 
 cd banana
 
-sudo sh banana_setup.sh
+sudo sh setup_banana.sh
 
 This script will setup i2c on the Raspberry Pi, install the python Adafruit MPR121 library, and move the project files to /var/www
 
